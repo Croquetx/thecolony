@@ -1,7 +1,26 @@
-# thecolony
-First realtime 3D adventure/shooter
- 
-Colony Memoirs
+# The Colony
+
+
+## First realtime 3D adventure/shooter
+
+This code is made available under the GPL 2.0 license.
+There are all three versions here:
+Colony for Macintosh
+Colony for PC
+Colony for Amiga
+David W Easter was responsible for both the PC and Amiga ports.
+
+To see The Colony in action, you can watch the demos on Youtube. 
+
+Part 1:
+
+[https://www.youtube.com/watch?v=i1XENlUUOhA]
+
+Part 2:
+
+[https://www.youtube.com/watch?v=3k3qrt76Ddk]
+
+# Colony Memoirs
 
 David A. Smith
 February 12, 2005
@@ -157,23 +176,26 @@ Now I am developing a meta-tool. I am working on a new operating system called C
 Further Info:
 
 MacWorld top 10 gaming thingies article:
-< http://www.macworld.com/2000/01/bc/gamesgameroom/>
+
+[http://www.macworld.com/2000/01/bc/gamesgameroom/]
 
 Article in University of Chicago Magazine about me:
-< http://magazine.uchicago.edu/9910/html/smith.htm>
 
-Description of the game
-< http://www.mobygames.com/game/sheet/gameId,3489/>
+[http://magazine.uchicago.edu/9910/html/smith.htm]
+
+Description of the game:
+
+[http://www.mobygames.com/game/sheet/gameId,3489/]
 
 Somewhat recent review:
-<http://www.mobygames.com/game/view_review/reviewerId,5736/gameId,3489/platformId,2/> 
 
-My current efforts as chief architect of Croquet:
-http://www.croquetproject.org
+[http://www.mobygames.com/game/view_review/reviewerId,5736/gameId,3489/platformId,2/]
 
-A relatively recent bio:
-< http://www.squeakland.org/community/biography/dasmithbio.html>
+My current efforts as CTO of Croquet:
+
+[http://www.croquet.io]
 
 My Croquet Blog:
-< http://croqueteer.blogspot.com/>
+
+[https://www.croquet.zone/]
 
