@@ -1,0 +1,387 @@
+MakeFWall wall.c /^void MakeFWall(
+MakeCWall wall.c /^void MakeCWall(
+drawwind wallftrs.c /^drawwind(
+drawClosedDoor wallftrs.c /^drawClosedDoor(
+drawOpenDoor wallftrs.c /^drawOpenDoor(
+drawTunnel wallftrs.c /^drawTunnel(
+drawglyphs wallftrs.c /^drawglyphs(
+drawbooks wallftrs.c /^drawbooks(
+draw_up_stairs wallftrs.c /^draw_up_stairs(
+draw_dn_stairs wallftrs.c /^draw_dn_stairs(
+drawALOpen wallftrs.c /^drawALOpen(
+drawALClosed wallftrs.c /^drawALClosed(
+drawOpenSSDoor wallftrs.c /^drawOpenSSDoor(
+drawClosedSSDoor wallftrs.c /^drawClosedSSDoor(
+drawelevator wallftrs.c /^drawelevator(
+drawColor wallftrs.c /^drawColor(
+split7x7 wallftrs.c /^int split7x7(
+ColorWall wallftrs.c /^ColorWall(
+tunnel tunnel.c /^tunnel(
+TunnelColor tunnel.c /^TunnelColor(
+DisplayTunnel tunnel.c /^DisplayTunnel(
+TunnelAirlock tunnel.c /^TunnelAirlock(
+MakeUPyramid upyramid.c /^void MakeUPyramid(
+MakeScreen screen.c /^void MakeScreen(
+rot_init setup.c /^rot_init(
+sign setup.c /^sign(
+perspective setup.c /^perspective(
+perspective2 setup.c /^perspective2(
+quadrant setup.c /^quadrant(
+scan shoot.c /^int scan(
+shoot shoot.c /^shoot(
+Eat shoot.c /^Eat(
+DestroyRobot shoot.c /^DestroyRobot(
+CShoot shoot.c /^CShoot(
+MakeSnoop snoop.c /^void MakeSnoop(
+LoadSound sound.c /^struct SoundRec* LoadSound(
+KillSound sound.c /^KillSound(
+PlaySound sound.c /^PlaySound(
+RepeatCSound sound.c /^RepeatCSound(
+EndCSound sound.c /^EndCSound(
+NumCSound sound.c /^NumCSound(
+PlayCSound sound.c /^PlayCSound(
+SoundIntro sound.c /^SoundIntro(
+SoundInit sound.c /^SoundInit(
+SoundEnd sound.c /^SoundEnd(
+PlayMars sound.c /^PlayMars(
+PlayKlaxon sound.c /^PlayKlaxon(
+DoBeammeSound sound.c /^DoBeammeSound(
+PlayAirlock sound.c /^PlayAirlock(
+DoOuchSound sound.c /^DoOuchSound(
+PlayDiDit sound.c /^PlayDiDit(
+DoChimeSound sound.c /^DoChimeSound(
+DoBangSound sound.c /^DoBangSound(
+DoShootSound sound.c /^DoShootSound(
+DoEatSound sound.c /^DoEatSound(
+DoBonkSound sound.c /^DoBonkSound(
+DoBzzzSound sound.c /^DoBzzzSound(
+DoExplodeSound sound.c /^DoExplodeSound(
+DoElevatorSound sound.c /^DoElevatorSound(
+DoPShotSound sound.c /^DoPShotSound(
+DoToiletSound sound.c /^DoToiletSound(
+DoTestSound sound.c /^DoTestSound(
+DoDitSound sound.c /^DoDitSound(
+DoSinkSound sound.c /^DoSinkSound(
+DoBathSound sound.c /^DoBathSound(
+DoClatterSound sound.c /^DoClatterSound(
+DoSwishSound sound.c /^DoSwishSound(
+DoStopSound sound.c /^DoStopSound(
+DoTeleportSound sound.c /^DoTeleportSound(
+DoHoleSound sound.c /^DoHoleSound(
+DoSlugSound sound.c /^DoSlugSound(
+DoTunnel1Sound sound.c /^DoTunnel1Sound(
+DoTunnel2Sound sound.c /^DoTunnel2Sound(
+DoLiftSound sound.c /^DoLiftSound(
+DoGlassSound sound.c /^DoGlassSound(
+RepeatTSound sound.c /^RepeatTSound(
+KillTSound sound.c /^KillTSound(
+DoEndSound sound.c /^DoEndSound(
+DoDoorSound sound.c /^DoDoorSound(
+DoDaveSound sound.c /^DoDaveSound(
+DoScreamSound sound.c /^DoScreamSound(
+makestars stars.c /^makestars(
+MakeTable table.c /^void MakeTable(
+MakeProjector table.c /^void MakeProjector(
+MakeTele teleport.c /^void MakeTele(
+CThink think.c /^CThink(
+CubeThink think.c /^CubeThink(
+PyramidThink think.c /^PyramidThink(
+UPyramidThink think.c /^UPyramidThink(
+EyeThink think.c /^EyeThink(
+QueenThink think.c /^QueenThink(
+DroneThink think.c /^DroneThink(
+EggThink think.c /^EggThink(
+LayEgg think.c /^LayEgg(
+MoveThink think.c /^MoveThink(
+SnoopThink think.c /^SnoopThink(
+BigGrow think.c /^BigGrow(
+Grow think.c /^Grow(
+CopyMax think.c /^CopyMax(
+MakeCChair cchair.c /^void MakeCChair(
+drawchar chars.c /^drawchar(
+checkleft chckleft.c /^checkleft(
+checkright chckright.c /^checkright(
+checkwall chckwall.c /^int checkwall(
+InitColorize colorize.c /^InitColorize(
+Colorize colorize.c /^Colorize(
+ColorUpdate colorize.c /^ColorUpdate(
+CAction colorize.c /^CAction(
+DrawColor colorize.c /^DrawColor(
+DrawBox colorize.c /^DrawBox(
+EditColor colorize.c /^EditColor(
+EditGray colorize.c /^EditGray(
+InitBlock colorize.c /^InitBlock(
+SaveColor colorize.c /^SaveColor(
+LoadColor colorize.c /^int LoadColor(
+ColorInit colorize.c /^ColorInit(
+load_color colorize.c /^load_color(
+load_color_map colorize.c /^load_color_map(
+HelpColor colorize.c /^HelpColor(
+movecorridor command.c /^movecorridor(
+Shift command.c /^int Shift(
+CCommand command.c /^CCommand(
+ExitFL command.c /^ExitFL(
+DropFL command.c /^DropFL(
+ExitTeleport command.c /^ExitTeleport(
+Forward command.c /^int Forward(
+CCenter command.c /^CCenter(
+action command.c /^action(
+SetButt command.c /^SetButt(
+infomap command.c /^infomap(
+DrawCompass compass.c /^DrawCompass(
+DoCompass compass.c /^DoCompass(
+MakeConsole console.c /^void MakeConsole(
+corridor corridor.c /^corridor(
+drawend corridor.c /^drawend(
+MakeCouch couch.c /^void MakeCouch(
+MakeChair couch.c /^void MakeChair(
+MakeTV couch.c /^void MakeTV(
+MakeDrawer couch.c /^void MakeDrawer(
+MakeCryo cryo.c /^void MakeCryo(
+MakeCube cube.c /^void MakeCube(
+MakeDesk desk3d.c /^void MakeDesk(
+ANewPixMap display.c /^PixMapHandle ANewPixMap(
+SetColorTable display.c /^SetColorTable(
+NewColorTable display.c /^NewColorTable(
+NewBitMap display.c /^BitMap *NewBitMap(
+KillBitMap display.c /^KillBitMap(
+KillPixMap display.c /^KillPixMap(
+MakeGrafPort display.c /^MakeGrafPort(
+KillGrafPort display.c /^KillGrafPort(
+initPixMap display.c /^initPixMap(
+ResetOffScreen display.c /^ResetOffScreen(
+Display display.c /^Display(
+CopyRect display.c /^CopyRect(
+drawmap display.c /^drawmap(
+Terminate display.c /^Terminate(
+DoText dotext.c /^DoText(
+RLocalToGlobal dotext.c /^RLocalToGlobal(
+MakeDrone drone.c /^void MakeDrone(
+MakeSoldier drone.c /^void MakeSoldier(
+MakeEye eye.c /^void MakeEye(
+FadeIn fadein.c /^FadeIn(
+features features.c /^features(
+frontfeature features.c /^frontfeature(
+dowall features.c /^dowall(
+ceil2hole features.c /^ceil2hole(
+floor2hole features.c /^floor2hole(
+ceil1hole features.c /^ceil1hole(
+floor1hole features.c /^floor1hole(
+hotfoot features.c /^hotfoot(
+split7 features.c /^split7(
+MakeForkLift forklift.c /^void MakeForkLift(
+savegame gamefile.c /^savegame(
+saveprofile gamefile.c /^saveprofile(
+opengame gamefile.c /^int opengame(
+my_write gamefile.c /^my_write(
+my_read gamefile.c /^my_read(
+my_read_loc gamefile.c /^my_read_loc(
+load_mapnum gamefile.c /^load_mapnum(
+load_map gamefile.c /^load_map(
+SaveGameData gamefile.c /^int SaveGameData(
+LoadGameData gamefile.c /^LoadGameData(
+Catenate gamefile.c /^int Catenate(
+InitDejaVu gamesprt.c /^InitDejaVu(
+DrawButton gamesprt.c /^DrawButton(
+DejaDCopy gamesprt.c /^DejaDCopy(
+animupdate gamesprt.c /^animupdate(
+killanim gamesprt.c /^killanim(
+DrawAll gamesprt.c /^DrawAll(
+DrawSome gamesprt.c /^DrawSome(
+UnPackBytes gamesprt.c /^UnPackBytes(
+loadbitmap gamesprt.c /^BitMap* loadbitmap(
+unpackbitmap gamesprt.c /^BitMap* unpackbitmap(
+readanim gamesprt.c /^readanim(
+unpackanim gamesprt.c /^unpackanim(
+unpack gamesprt.c /^unpack(
+FindSprite gamesprt.c /^int FindSprite(
+DrawlSprite gamesprt.c /^DrawlSprite(
+DrawPlane gamesprt.c /^int DrawPlane(
+WhichlSprite gamesprt.c /^int WhichlSprite(
+ShowIt gamesprt.c /^ShowIt(
+NoShowIt gamesprt.c /^NoShowIt(
+DoIt gamesprt.c /^int DoIt(
+ButtonDown gamesprt.c /^int ButtonDown(
+TestButton gamesprt.c /^int TestButton(
+InsideControl gamesprt.c /^int InsideControl(
+KeylSprite gamesprt.c /^int KeylSprite(
+DrawBackGround gamesprt.c /^DrawBackGround(
+AnimControl gamesprt.c /^AnimControl(
+ObjectState gamesprt.c /^ObjectState(
+ObjectRect gamesprt.c /^ObjectRect(
+SetObjectState gamesprt.c /^SetObjectState(
+SetObjectOnOff gamesprt.c /^SetObjectOnOff(
+OpenAFile gamesprt.c /^OpenAFile(
+DolSprite gamesprt.c /^DolSprite(
+MoveObject gamesprt.c /^MoveObject(
+crypt ganimate.c /^crypt(
+DoDesk ganimate.c /^DoDesk(
+DoVanity ganimate.c /^DoVanity(
+DoReactor ganimate.c /^DoReactor(
+switch ganimate.c /^		switch(
+DoSecurity ganimate.c /^DoSecurity(
+DoGameSecurity ganimate.c /^DoGameSecurity(
+DoTeleport ganimate.c /^DoTeleport(
+TelePorted ganimate.c /^TelePorted(
+DoCreatures ganimate.c /^DoCreatures(
+DoTeleShow ganimate.c /^DoTeleShow(
+DoControls ganimate.c /^DoControls(
+DoLift ganimate.c /^DoLift(
+DoPowerSuit ganimate.c /^DoPowerSuit(
+DoForkLift ganimate.c /^DoForkLift(
+DoDoor ganimate.c /^int DoDoor(
+DoAirLock ganimate.c /^int DoAirLock(
+DoElevator ganimate.c /^int DoElevator(
+main gmain.c /^main(
+EndGame gmain.c /^EndGame(
+MainEvent gmain.c /^MainEvent(
+Update gmain.c /^Update(
+DoCommand gmain.c /^int DoCommand(
+Inform gmain.c /^Inform(
+PowerInform gmain.c /^PowerInform(
+ShowNum gmain.c /^ShowNum(
+Debug gmain.c /^Debug(
+ShowSize gmain.c /^ShowSize(
+About gmain.c /^About(
+QSave gmain.c /^int QSave(
+GoToMap gotomap.c /^int GoToMap(
+OpenDoor gotomap.c /^OpenDoor(
+OpenElevator gotomap.c /^OpenElevator(
+OpenAirLock gotomap.c /^OpenAirLock(
+UpStairs gotomap.c /^UpStairs(
+DownStairs gotomap.c /^DownStairs(
+GoTo gotomap.c /^int GoTo(
+DoUpStairs gotomap.c /^DoUpStairs(
+DoDnStairs gotomap.c /^DoDnStairs(
+InitBathroom initobj.c /^InitBathroom(
+InitBed initobj.c /^InitBed(
+InitBox initobj.c /^InitBox(
+InitCChair initobj.c /^InitCChair(
+InitConsole initobj.c /^InitConsole(
+InitCouch initobj.c /^InitCouch(
+InitCryo initobj.c /^InitCryo(
+InitCube initobj.c /^InitCube(
+InitDesk initobj.c /^InitDesk(
+InitDrone initobj.c /^InitDrone(
+InitEye initobj.c /^InitEye(
+InitForkLift initobj.c /^InitForkLift(
+InitPlant initobj.c /^InitPlant(
+InitPowerSuit initobj.c /^InitPowerSuit(
+InitPyramid initobj.c /^InitPyramid(
+InitQueen initobj.c /^InitQueen(
+InitScreen initobj.c /^InitScreen(
+InitSnoop initobj.c /^InitSnoop(
+InitTable initobj.c /^InitTable(
+InitTele initobj.c /^InitTele(
+InitUPyramid initobj.c /^InitUPyramid(
+InitWall initobj.c /^InitWall(
+BattleInit initobj.c /^BattleInit(
+SetUpMenus inits.c /^SetUpMenus(
+inits inits.c /^inits(
+UnLoad inits.c /^UnLoad(
+AUnLoad inits.c /^AUnLoad(
+BUnLoad inits.c /^BUnLoad(
+CUnLoad inits.c /^CUnLoad(
+TUnLoad inits.c /^TUnLoad(
+SizeRect inits.c /^SizeRect(
+UpdateMove inits.c /^UpdateMove(
+UpdateInfo inits.c /^UpdateInfo(
+UpdateThe inits.c /^UpdateThe(
+MemoryErr inits.c /^MemoryErr(
+BuildTable inits.c /^BuildTable(
+KillTable inits.c /^KillTable(
+FindDepth inits.c /^FindDepth(
+intro intro.c /^intro(
+ScrollInfo intro.c /^int ScrollInfo(
+TimeSquare intro.c /^int TimeSquare(
+makeplanet intro.c /^makeplanet(
+leaveplanet intro.c /^leaveplanet(
+explodeplanet intro.c /^explodeplanet(
+Makeblackhole intro.c /^Makeblackhole(
+DoPicture intro.c /^DoPicture(
+gameInit intro.c /^gameInit(
+tabsgen intro.c /^tabsgen(
+GameOver intro.c /^GameOver(
+TakeOff intro.c /^TakeOff(
+FullOfStars intro.c /^FullOfStars(
+Dimension8 intro.c /^Dimension8(
+OptionKey intro.c /^int OptionKey(
+MakeRobot makerobo.c /^void MakeRobot(
+SetObject makerobo.c /^SetObject(
+InitRobot makerobo.c /^InitRobot(
+SetRobot makerobo.c /^void SetRobot(
+SaveLevel makerobo.c /^SaveLevel(
+InitObject makerobo.c /^void InitObject(
+NewObject makerobo.c /^NewObject(
+CreateObject makerobo.c /^CreateObject(
+expand packit.c /^expand(
+savewall patch.c /^savewall(
+getwall patch.c /^getwall(
+newpatch patch.c /^newpatch(
+patchmapto patch.c /^patchmapto(
+patchmapfrom patch.c /^patchmapfrom(
+DoPatch patch.c /^DoPatch(
+MakePlant plant.c /^void MakePlant(
+DrawLeaf plant.c /^DrawLeaf(
+DrawInfo power.c /^DrawInfo(
+DoInfo power.c /^DoInfo(
+ZoomRect power.c /^ZoomRect(
+SetPower power.c /^SetPower(
+qlog power.c /^int qlog(
+MakePowerSuit powrsuit.c /^void MakePowerSuit(
+TickCount profile.c /^time TickCount(
+InitProfile profile.c /^InitProfile(
+pstreq profile.c /^LOCAL Bool pstreq(
+delta profile.c /^LOCAL time delta(
+returned profile.c /^  is returned (
+writenum profile.c /^writenum(
+DumpProfile profile.c /^void DumpProfile(
+__profile_exit profile.c /^address __profile_exit(
+__profile profile.c /^void __profile(
+_profile_ profilehooks.c /^_profile_(
+_profile_exit_ profilehooks.c /^_profile_exit_(
+MakePyramid pyramid.c /^void MakePyramid(
+draweye pyramid.c /^draweye(
+ColorOval pyramid.c /^ColorOval(
+MakeQueen queen.c /^void MakeQueen(
+seteyes queen.c /^seteyes(
+draweyes queen.c /^draweyes(
+MakeTub bathroom.c /^void MakeTub(
+MakeSink bathroom.c /^void MakeSink(
+MakeToilet bathroom.c /^void MakeToilet(
+MakePToilet bathroom.c /^void MakePToilet(
+asqrt battle.c /^long asqrt(
+BattleSet battle.c /^BattleSet(
+BThink battle.c /^BThink(
+Battlebackdrop battle.c /^Battlebackdrop(
+BattlePyramid battle.c /^BattlePyramid(
+BattleQuadrant battle.c /^BattleQuadrant(
+BattleTank battle.c /^BattleTank(
+BattleMake battle.c /^BattleMake(
+BattleCommand battle.c /^BattleCommand(
+BattleShoot battle.c /^BattleShoot(
+ProjCommand battle.c /^ProjCommand(
+DrawBPrism battle.c /^DrawBPrism(
+BClockwise battle.c /^int BClockwise(
+BRotate battle.c /^BRotate(
+MakeBed bed.c /^void MakeBed(
+MakeBBed bed.c /^void MakeBBed(
+MakeBox1 box.c /^void MakeBox1(
+MakeBox2 box.c /^void MakeBox2(
+MakeBench box.c /^void MakeBench(
+MakeCBench box.c /^void MakeCBench(
+DataSize cad.c /^void DataSize(
+DataDisplay cad.c /^void DataDisplay(
+DataAction cad.c /^void DataAction(
+PaletteSize cad.c /^void PaletteSize(
+PaletteDisplay cad.c /^void PaletteDisplay(
+PaletteAction cad.c /^void PaletteAction(
+MakeWindows cad.c /^MakeWindows(
+MakeNewWindow cad.c /^window *MakeNewWindow(
+MakePrism calcrobo.c /^MakePrism(
+DrawPrism calcrobo.c /^DrawPrism(
+Clockwise calcrobo.c /^int Clockwise(
+Rotate calcrobo.c /^Rotate(
+TransRotProj calcrobo.c /^TransRotProj(
+XYClip calcrobo.c /^int XYClip(
+SuperPoly calcrobo.c /^SuperPoly(

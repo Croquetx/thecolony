@@ -1,0 +1,1 @@
+long PlaySoundResID(short resID);		//	returns a refnumvoid StopSound(long refNum);int SounDone();long LoopSoundResID(short resID);		//	returns a refnumvoid StopLoopedSound(long refNum);void SetLoopedVolume(long refNum, UInt8 volume);
