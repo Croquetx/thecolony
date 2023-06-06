@@ -1,15 +1,17 @@
 # The Colony
 
+![The Box](./Screenshots/The-Colony-Box.webp)
 
 ## First realtime 3D adventure/shooter
-![The Colony](./Screenshots/the-colony-001.png)
 
 
 This code is made available under the GPL 2.0 license.
 There are all three versions here:
-Colony for Macintosh
-Colony for PC
-Colony for Amiga
+- Colony for Macintosh
+- Colony for PC
+- Colony for Amiga
+
+
 David W Easter was responsible for both the PC and Amiga ports.
 
 To see The Colony in action, you can watch the demos on Youtube. 
@@ -21,6 +23,14 @@ Part 1:
 Part 2:
 
 [https://www.youtube.com/watch?v=3k3qrt76Ddk]
+
+
+## Images
+![The Colony](./Screenshots/the-colony-001.png)
+![Promo sheet](./Screenshots/Croquet-promo.webp)
+![Queen](./Screenshots/the-colony_9.png)
+![Fork Lift](./Screenshots/the-colony_11.png)
+![The bridge](./Screenshots/the-colony-bridge.png)
 
 # Colony Memoirs
 
@@ -177,6 +187,10 @@ Now I am developing a meta-tool. I am working on a new operating system called C
 
 Further Info:
 
+Wikipedia article:
+
+[https://en.wikipedia.org/wiki/The_Colony_%28video_game%29]
+
 MacWorld top 10 gaming thingies article:
 
 [http://www.macworld.com/2000/01/bc/gamesgameroom/]
@@ -200,4 +214,12 @@ My current efforts as CTO of Croquet:
 My Croquet Blog:
 
 [https://www.croquet.zone/]
+
+Croquet Videos:
+
+[https://www.youtube.com/watch?v=90Sbb9CeQtY]
+
+Colony Amiga:
+
+[https://www.youtube.com/watch?v=RcXzqQ2oKMY]
 
