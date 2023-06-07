@@ -5,7 +5,7 @@
 ## First realtime 3D adventure/shooter
 
 
-This code is made available under the GPL 2.0 license.
+This code is made available under the Apache 2.0 license.
 There are all three versions here:
 - Colony for Macintosh
 - Colony for PC
