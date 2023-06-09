@@ -182,6 +182,7 @@ The Colony turned into a pretty good game, though it was much harder than it sho
 
 Now I am developing a meta-tool. I am working on a new operating system called Croquet with Alan Kay, the father of the personal computer, David Reed whom Alan calls “the ‘slash’ in TCP/IP”, and Andreas Raab, one of the system architects for Squeak. Croquet is an open source project that we hope will foster a rebirth in innovation on the PC, just as Alan’s work helped create the Macintosh, David Reed’s helped create the Internet, and I would like to think that my work helped create modern computer games. I hope Croquet fosters the same excitement in people that the my first Macintosh did for me, over twenty years ago. It is time for something new.
 
+[This was written many years ago. I am still creating that meta-tool. It is called Croquet. Join us as we invent the future. David A Smith]
  
 
 
